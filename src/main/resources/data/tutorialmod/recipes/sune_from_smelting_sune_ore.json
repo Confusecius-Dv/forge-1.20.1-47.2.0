@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "sune",
+  "ingredient": {
+    "item": "tutorialmod:sune_ore"
+  },
+  "result": "tutorialmod:sune"
+}
