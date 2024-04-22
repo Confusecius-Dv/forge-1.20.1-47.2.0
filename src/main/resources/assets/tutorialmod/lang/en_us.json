@@ -1,0 +1,19 @@
+{
+  "item.tutorialmod.mune": "Mune",
+  "item.tutorialmod.sune": "Sune",
+  "item.tutorialmod.baskar_ingot": "Baskar Ingot",
+  "item.tutorialmod.bat_wing": "Bat Wing",
+
+  "item.tutorialmod.blue_kyber_crystal": "Blue Kyber Crystal",
+  "item.tutorialmod.green_kyber_crystal": "Green Kyber Crystal",
+  "item.tutorialmod.red_kyber_crystal": "Red Kyber Crystal",
+  "item.tutorialmod.purple_kyber_crystal": "Purple Kyber Crystal",
+  "item.tutorialmod.white_kyber_crystal": "White Kyber Crystal",
+
+  "block.tutorialmod.mune_block": "Mune Block",
+  "block.tutorialmod.sune_block": "Sune Block",
+  "block.tutorialmod.sune_ore": "Sune Ore",
+  "block.tutorialmod.mune_ore": "Mune Ore",
+
+  "creativetab.tutorial_tab": "Sapphire Tutorial Tab"
+}
