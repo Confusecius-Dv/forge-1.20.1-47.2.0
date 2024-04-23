@@ -42,6 +42,9 @@ public class ModItems {
     public static final RegistryObject<Item> METAL_DETECTOR = ITEMS.register("metal_detector",
             () -> new metalDetectorItem(new Item.Properties().durability(100)));
 
+    public static final RegistryObject<Item> CHOCOLATE = ITEMS.register("chocolate",
+            () -> new Item(new Item.Properties().food(ModFoods.CHOCOLATE)));
+
 
 
     public static void register(IEventBus eventBus) {
