@@ -29,6 +29,7 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModItems.RED_KYBER_CRYSTAL.get());
                         pOutput.accept(ModItems.PURPLE_KYBER_CRYSTAL.get());
                         pOutput.accept(ModItems.WHITE_KYBER_CRYSTAL.get());
+                        pOutput.accept(ModItems.METAL_DETECTOR.get());
 
                         pOutput.accept(Items.DIAMOND);
 
