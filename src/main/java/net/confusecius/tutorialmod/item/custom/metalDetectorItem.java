@@ -1,5 +1,6 @@
 package net.confusecius.tutorialmod.item.custom;
 
+import net.confusecius.tutorialmod.block.ModBlocks;
 import net.minecraft.client.resources.language.I18n;
 import net.minecraft.core.BlockPos;
 import net.minecraft.network.chat.Component;
