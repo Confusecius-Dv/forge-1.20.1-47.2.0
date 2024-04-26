@@ -8,5 +8,5 @@ import net.minecraft.world.food.FoodProperties;
 public class ModFoods {
     public static final FoodProperties CHOCOLATE = new FoodProperties.Builder().nutrition(3)
             .saturationMod(0.2f)
-            .effect(() -> new MobEffectInstance(MobEffects.GLOWING, 100), 0.1f).build();
+            .effect(() -> new MobEffectInstance(MobEffects.GLOWING, 8), 0.1f).build();
 }
